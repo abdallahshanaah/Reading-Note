@@ -19,5 +19,5 @@ This website to write note and description what we read and understand from the 
 14. *Read 14*                    |  [Link]()      |
 15. *Read 15*                    |  [Link]()      |
                                                     
-![*Note 1*](https://www.google.com/url?sa=i&url=https%3A%2F%2Fonlinembanogmat.com%2Fthe-top-note-taking-apps-in-2020%2F&psig=AOvVaw0YePc1rKhaerVko5ZdNKz6&ust=1581941804936000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjKlY-H1ucCFQAAAAAdAAAAABAD) 
-[*Note 2*](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsearchengineland.com%2Fcontent-designer-king-conversation-231773&psig=AOvVaw0YePc1rKhaerVko5ZdNKz6&ust=1581941804936000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjKlY-H1ucCFQAAAAAdAAAAABAJ)                                                   
+![*Note 1*](https://blacklinesandbillables.com/wp-content/uploads/2016/09/notepad-1280x640.jpeg) 
+[*Note 2*](https://searchengineland.com/figz/wp-content/seloads/2014/08/writing-content-notes-ss-1920.jpg)                                                   
