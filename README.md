@@ -20,4 +20,3 @@ This website to write note and description what we read and understand from the 
 15. *Read 15*                    |  [Link]()      |
                                                     
 ![*Note 1*](https://blacklinesandbillables.com/wp-content/uploads/2016/09/notepad-1280x640.jpeg) 
-[*Note 2*](https://searchengineland.com/figz/wp-content/seloads/2014/08/writing-content-notes-ss-1920.jpg)                                                   
