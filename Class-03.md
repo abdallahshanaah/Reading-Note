@@ -4,10 +4,10 @@
 
 ### Chapter 3: “Lists” (pp.62-73)
 taking about how to make list by using defferent way 
-1. ordered lists <ol> with <li> (list item)
-2. unordered list <ul> with <li>
+1. ordered lists < ol > with < li > (list item)
+2. unordered list < ul > with < li >
 3. definition list and that usually used for item and them definitios 
-like <dt> used to hold the item and <dd>
+like < dt > used to hold the item and < dd >
 used to hold the definitios 
 and how to used as nested list with example
 

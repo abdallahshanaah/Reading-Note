@@ -3,10 +3,10 @@
 ## HTML 
 ### Chapter 2: “Text” (pp.40-61)
 taking about the edit tags that you can use it for text 
-1. heading <h1>.... <h6> for the headings levels.
-2. paraghraphs <p> to create paraghraphs.
-3. bold <b> to make the text bold.
-4. italic <i> to appear the text as italic.
+1. heading < h1 >..< h6 > for the headings levels.
+2. paraghraphs < p > to create paraghraphs.
+3. bold < b > to make the text bold.
+4. italic < i > to appear the text as italic.
 5. superscript <sup> to make the text as super power for example 
 6. subscript <sub> to make the tsxe or number as sub or down like Chemical elements.
 and alot more
