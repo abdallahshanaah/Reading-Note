@@ -5,8 +5,8 @@ This website to write note and description what we read and understand from the 
 
  |    **Read Number**            |  **Link**      |
 ---------------------------------|----------------|
-1. *Read 1*                      |  [Link]()      |
-2. *Read 2*                      |  [Link]()      |
+1. *Read 1*                      |  [Link](https://abdallahshanaah.github.io/Reading-Note/Class-01)      |
+2. *Read 2*                      |  [Link](https://abdallahshanaah.github.io/Reading-Note/Class-02)      |
 3. *Read 3*                      |  [Link]()      |
 4. *Read 4*                      |  [Link]()      |
 5. *Read 5*                      |  [Link]()      |
