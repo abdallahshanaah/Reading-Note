@@ -1,7 +1,9 @@
 # Code 201 Reading Notes
 This website to write note and description what we read and understand from the reading part
+![*Note 1*](https://blacklinesandbillables.com/wp-content/uploads/2016/09/notepad-1280x640.jpeg) 
 
- **#**|    **Read Number**       | **Link**       |
+
+ |    **Read Number**            |  **Link**      |
 ---------------------------------|----------------|
 1. *Read 1*                      |  [Link]()      |
 2. *Read 2*                      |  [Link]()      |
@@ -19,4 +21,3 @@ This website to write note and description what we read and understand from the 
 14. *Read 14*                    |  [Link]()      |
 15. *Read 15*                    |  [Link]()      |
                                                     
-![*Note 1*](https://blacklinesandbillables.com/wp-content/uploads/2016/09/notepad-1280x640.jpeg) 
