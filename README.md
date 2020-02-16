@@ -1,7 +1,7 @@
 # Code 201 Reading Notes
 This website to write note and description what we read and understand from the reading part
 
- **#|      Read Number           | Link   |**
+ **#**|    **Read Number**       | **Link**       |
 ---------------------------------|----------------|
 1. *Read 1*                      |  [Link]()      |
 2. *Read 2*                      |  [Link]()      |
