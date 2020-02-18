@@ -36,3 +36,6 @@ funvtion that use to make group some a series statments togather to perform a sp
 and how to declate it , and how to call it
 and the defferent between function type 
 like the function that content parameter 
+### 6 Reasons for Pair Programming
+that talking about pair programming what is it mean and its benefits
+by they helping each other and to sharing their ideas and more .
