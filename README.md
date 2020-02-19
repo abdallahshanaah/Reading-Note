@@ -8,8 +8,8 @@ This website to write note and description what we read and understand from the 
 1. *Read 1*                      |  [Link](https://abdallahshanaah.github.io/Reading-Note/Class-01)      |
 2. *Read 2*                      |  [Link](https://abdallahshanaah.github.io/Reading-Note/Class-02)      |
 3. *Read 3*                      |  [Link](https://abdallahshanaah.github.io/Reading-Note/Class-03)      |
-4. *Read 4*                      |  [Link]()      |
-5. *Read 5*                      |  [Link]()      |
+4. *Read 4*                      |  [Link](https://abdallahshanaah.github.io/Reading-Note/Class-04)      |
+5. *Read 5*                      |  [Link](https://abdallahshanaah.github.io/Reading-Note/Class-05)      |
 6. *Read 6*                      |  [Link]()      |
 7. *Read 7*                      |  [Link]()      |
 8. *Read 8*                      |  [Link]()      |
