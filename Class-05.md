@@ -1,4 +1,4 @@
-# read 5
+# Read 5
 ## Chapter 5: “Images” (pp.94-125)
 this chapter talking about images and how img is importanet and how to declare img **<img>** and the using of sre,alt and title inside the img tag.
 and how to set the height and width
