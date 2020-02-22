@@ -14,9 +14,9 @@ that mean objects group together a set of variables and functions to create a mo
 and how to create it and how to accesse the object too and how to create it using literal notation 
 ## Chapter 5: “Document Object Model” (pp.183-242)
 this chapter talking about to decument object model that mean the dom tree and how the caching for it abd how to accessing elements is easy by dom tree and some of the methods that trturn single element node like 
-+ getElementByld('id')
-+ querySelector('css selector')
-+ getElementsByClassName('class')
-+ getElementsByTagName('tagName')
-+ querySelectorAll ('css selector')
++ **8getElementByld('id')**
++ **querySelector('css selector')**
++ **getElementsByClassName('class')**
++ **getElementsByTagName('tagName')**
++ **querySelectorAll ('css selector')**
 abd decription for every one of them with example in more 
