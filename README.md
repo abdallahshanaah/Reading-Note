@@ -14,7 +14,7 @@ This website to write note and description what we read and understand from the 
 7. *Read 7*                      |  [Link](https://abdallahshanaah.github.io/Reading-Note/Class-07)      |
 8. *Read 8*                      |  [Link](https://abdallahshanaah.github.io/Reading-Note/Class-08)      |
 9. *Read 9*                      |  [Link](https://abdallahshanaah.github.io/Reading-Note/Class-09)      |
-10. *Read 10*                    |  [Link]()      |
+10. *Read 10*                    |  [Link](https://abdallahshanaah.github.io/Reading-Note/Class-10)      |
 11. *Read 11*                    |  [Link]()      |
 12. *Read 12*                    |  [Link]()      |
 13. *Read 13*                    |  [Link]()      |
