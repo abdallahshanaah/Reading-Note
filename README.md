@@ -22,4 +22,4 @@ This website to write note and description what we read and understand from the 
 15. *301 Read 1*                     |  [Link](https://abdallahshanaah.github.io/Reading-Note/Class-15)      |
 16. *301 Read 2*                     |  [Link](https://abdallahshanaah.github.io/Reading-Note/Class-16)      |
 17. *301 Read 3*                     |  [Link](https://abdallahshanaah.github.io/Reading-Note/Class-17)      |
-18. *301 Read 4*                     |  [Link]()      |                                                
+18. *301 Read 4*                     |  [Link](https://abdallahshanaah.github.io/Reading-Note/Class-18)      ||                                                
