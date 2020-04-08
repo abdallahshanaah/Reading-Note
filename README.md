@@ -28,5 +28,5 @@ This website to write note and description what we read and understand from the 
 21. *301 Read 7*                      |  [Link](https://abdallahshanaah.github.io/Reading-Note/Class-3-07)      |
 22. *301 Read 8*                      |  [Link](https://abdallahshanaah.github.io/Reading-Note/Class-3-08)      |     
 23. *301 Read 9*                      |  [Link](https://abdallahshanaah.github.io/Reading-Note/Class-3-09)      |
-24. *301 Read 10*                     |  [Link]()      |
+24. *301 Read 10*                     |  [Link](https://abdallahshanaah.github.io/Reading-Note/Class-3-10)      |
 25. *301 Read 11*                     |  [Link]()      |                                          
